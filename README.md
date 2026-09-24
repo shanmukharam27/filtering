@@ -614,3 +614,11 @@ is averaged, resulting in increased smoothing and blurring.
 Therefore, the project demonstrates both **how to perform image
 filtering efficiently using an inbuilt function** and **how the same
 filtering concept can be implemented from scratch**.
+Input image for the code 4,5 and 6 codes 
+<img width="3840" height="2160" alt="01_forza7_porsche_gt2rs_02_4k_v2_noflag" src="https://github.com/user-attachments/assets/fe23452a-1799-4925-ae51-66ef619c8db7" />
+6.py code output
+<img width="1536" height="752" alt="Figure_3" src="https://github.com/user-attachments/assets/47b946a9-c40f-4d4f-99fb-4d8ec718ad6b" />
+5.py code output
+<img width="1536" height="752" alt="Figure_2" src="https://github.com/user-attachments/assets/aea2b0a0-14d4-4720-bc36-179c4a19c1e1" />
+4.py code output
+<img width="1536" height="752" alt="Figure_1" src="https://github.com/user-attachments/assets/6b7e672b-b76f-447b-adda-57467449336d" />
